@@ -1,1 +1,1 @@
-# rsschool-cv
+https://twinhard-js.github.io/rsschool-cv/cv
